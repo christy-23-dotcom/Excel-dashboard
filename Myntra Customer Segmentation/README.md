@@ -1,1 +1,0 @@
-# Myntra Customer Segmentation Project
