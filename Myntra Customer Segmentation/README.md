@@ -37,12 +37,21 @@ This analysis helps identify who contributes most to revenue and how customers m
 ---
 
 ## 🚀 Business Recommendations
-- **Young Adults vs. Seniors** → Trendy campaigns for teens, comfort/value for seniors  
-- **Low-Performing States** → Pop-up stores, festival tie-ups  
-- **Low-Demand Categories** → Bundling & cross-selling with popular products  
-- **Less Popular Brands** → Localized ads, influencer tie-ups  
-- **Low Engagement Customers** → Personalized discounts & recommendations  
-- **Loyalty Programs** → Rewards for repeat purchases
 
-## 📸 Dashboard Screenshot
+- **Young Adults (19–30)** → Continue trend‑focused campaigns; for teens, emphasize style, and for seniors, highlight comfort and value.  
+- **Low‑Performing States** → Launch pop‑up stores, tie‑ups with local retailers, and festival promotions to boost visibility.  
+- **Low‑Demand Categories** → Use bundling and cross‑selling with popular products to increase awareness.  
+- **Less Popular Brands** → Run localized ads and influencer collaborations to improve brand exposure.  
+- **Low Engagement Customers** → Offer personalized discounts and product recommendations to re‑engage.  
+- **Loyalty Programs** → Introduce rewards for repeat purchases and launch new collections to sustain interest.  
+- **Social Media Campaigns** → Use Facebook & Instagram for trend awareness and customer engagement.  
+- **Top States (Gujarat & UP)** → Optimize logistics for Gujarat (Navratri season) and Uttar Pradesh/Bihar (wedding season).  
+- **Top Category (Footwear)** → Promote bundle offers to increase basket size.  
+- **Top Brand (Puma)** → Focus on exclusive promotions; avoid clearance sales to maintain aspirational value.  
+- **Medium Discount Strategy** → Continue optimized pricing, as medium discounts already drive ~65% of conversions.
+
+
+---
+
+## 📸 M-8 Dashboard Screenshot
 ![Myntra Dashboard Screenshot](Myntra%20Dashboard.png)
