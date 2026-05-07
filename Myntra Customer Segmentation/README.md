@@ -34,17 +34,17 @@ This project performs customer segmentation using RFM (Recency, Frequency, Monet
 
 ## 🚀 Business Recommendations
 
- - **Regional & Logistics Optimization (Projected 6% Growth)
+  ## Regional & Logistics Optimization (Projected 6% Growth)
   - Top States (Gujarat & UP): Optimize logistics and inventory 3 weeks prior to Navratri (Gujarat) and the Wedding Season              (UP/Bihar) to capture peak demand.
   - Low-Performing States: Launch pop-up stores and tie-ups with local retailers to boost physical visibility.
   - Expedited Delivery: Implement faster shipping for the 19–30 demographic to reduce cart abandonment in high-volume regions.
 
- - **Category & Brand Strategy (Projected 4% Growth)
+ ## Category & Brand Strategy (Projected 4% Growth)
   - Top Category (Footwear): Promote bundle offers and cross-selling to increase the Average Basket Size.
   - Brand Protection (Puma): Focus on exclusive, "early-access" promotions rather than clearance sales to maintain aspirational         brand value.
   - Product Awareness: Use bundling and social media influencer collaborations to increase exposure for low-demand categories and       less popular brands.
 
- - **Customer Retention & Engagement
+ ## Customer Retention & Engagement
   - RFM-Based Loyalty: Introduce rewards for repeat purchases to sustain interest among "Champions."
   - Re-engagement: Deploy personalized "We Miss You" discounts and recommendations for low-engagement/At-Risk customers.
   - Social Media: Utilize Facebook & Instagram for trend-focused campaigns targeting the 19–30 age group.
